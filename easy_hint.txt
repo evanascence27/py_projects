@@ -1,0 +1,5 @@
+feline
+canine
+tool
+collectible
+transport
